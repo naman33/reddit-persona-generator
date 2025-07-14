@@ -16,16 +16,15 @@ This is a command-line tool that scrapes a Reddit user's posts and comments, the
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository**
-```bash
+
 git clone https://github.com/yourusername/reddit-persona-generator.git
 cd reddit-persona-generator
 
 2. **Install Required Packages**
-```bash
 Make sure Python 3.8+ is installed, then run:
 pip install -r requirements.txt
 
-3. Set Up OpenRouter API Key
+3. **Set Up OpenRouter API Key**
 Create a .env file in the root directory:
 OPENROUTER_API_KEY=your_openrouter_api_key_here
 
