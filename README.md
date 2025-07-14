@@ -32,5 +32,5 @@ OPENROUTER_API_KEY=your_openrouter_api_key_here
 Example usage:
 python main.py https://www.reddit.com/user/kojied/
 
-•This will scrape the given user's recent posts and comments
+•This will scrape the given user's recent posts and comments <br/>
 •It then generates a persona and saves it to:
